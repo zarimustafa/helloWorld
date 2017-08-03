@@ -1,2 +1,2 @@
 # helloWorld
-sample
+The sample project.
